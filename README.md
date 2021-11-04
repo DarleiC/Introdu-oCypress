@@ -7,3 +7,5 @@ Exploramos as jornadas de inclusão de novas entradas e saídas. Seu desafio é:
 Amanhã vou revisar os desafios, corrigir o exercício e responder dúvidas.
 
 Extra: se compartilhar seu projeto no LinkedIn, me marque, vou responder em todos os posts de vocês
+
+![devFinance spec js](https://user-images.githubusercontent.com/93293650/140240832-b636a996-ef48-4815-ac88-5c8ef5223ce4.gif)
